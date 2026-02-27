@@ -1,1 +1,0 @@
-C:\Users\kotdi\Desktop\log_analyzer\target\release\log_analyzer.exe: C:\Users\kotdi\Desktop\log_analyzer\src\analyzer.rs C:\Users\kotdi\Desktop\log_analyzer\src\main.rs C:\Users\kotdi\Desktop\log_analyzer\src\parser.rs C:\Users\kotdi\Desktop\log_analyzer\src\report.rs
